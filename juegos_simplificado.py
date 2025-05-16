@@ -1,5 +1,5 @@
 """
-Modulo para las clases básicas para realizar un jkuego de forma muy simplificada
+Modulo para las clases básicas para realizar un juego de forma muy simplificada
     
 Vamos a usar una orientación funcional en este modulo
 
